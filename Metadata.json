@@ -1,0 +1,20 @@
+{
+    "Author": "Seif Bassem",
+    "ContentSize": 1597,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/parse-upgrade-readiness-logs/master/Parse_UR_Logs.ps1",
+    "DownloadCount": 434,
+    "Id": "Parse-upgrade-readiness-538896d4",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 471,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-4-29T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This powershell script parses all the log files generated from the (Deployment) upgrade readiness script and generates a csv file with summarized information only on the computers with errors.The csv contains the computer name , logfile name and the error message.",
+    "Title": "Parse upgrade readiness logs",
+    "UpdatedDate": "2018-5-15T00:00:00",
+    "Url": "https://github.com/azureautomation/parse-upgrade-readiness-logs",
+    "UserTags": "Powershell Script, Log File, Windows 10"
+}
